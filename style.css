@@ -97,6 +97,7 @@
 @media (max-width:900px) {
     .parent{
         height: auto;
+        width: 100%;
         background-image: url("./images/bg-mobile.svg");
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -114,10 +115,10 @@
         padding: 0px 0px;
     }
     .logo img{
-        width: 250px;
+        width: 150px;
     }
     .section1 img{  
-        width: 600px;
+        width: 400px;
     }
     .section2{
         margin-top: 120px;
